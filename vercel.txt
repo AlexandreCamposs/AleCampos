@@ -1,0 +1,9 @@
+cria o repo no github
+
+git remote add origin <link do repo>
+
+git add .
+
+git commit -m "initial"
+
+git push origin master
