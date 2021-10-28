@@ -18,10 +18,10 @@ const Home: NextPage = () => {
           <nav className={styles.nav}>
             <ul>
               <li>
-                <a href="#"><FaGithub/> GitHub</a>
+                <a href="https://github.com/AlexandreCamposs"><FaGithub/> GitHub</a>
               </li>
               <li>
-                <a href="#"><FaLinkedin/> Linkedin</a>
+                <a href="https://www.linkedin.com/in/alexandre-moura-de-campos-496627114/"><FaLinkedin/> Linkedin</a>
               </li>
             </ul>
           </nav>
