@@ -28,10 +28,12 @@ const Home: NextPage = () => {
         </div>
         <div className="hero">
             <div className="heroText">
-              <h1>Hi, my name is Alexandre</h1>
-              <p>FrontEnd Developer</p>
 
-              <a href="#">Hire me</a>
+             <p>FrontEnd Developer</p>              
+              <h1>Hi, my name is Alexandre</h1>            
+              <p> Entre em contato.</p>
+              <a href=" https://wa.me/5513997615741">WHATSAPP</a>
+              <img src="" alt="" />
               </div>
         </div>
       </main>
