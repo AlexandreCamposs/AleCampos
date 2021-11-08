@@ -33,7 +33,7 @@ const Home: NextPage = () => {
               <h1>Hi, my name is Alexandre</h1>            
               <p> Get in touch.</p>
               <a href=" https://wa.me/5513997615741">
-                < img className="logo"  src="logo.jpg" alt="whatsapp" />
+                < img className="logo"  src="logoo.jpg" alt="whatsapp" />
               </a>
               </div>
         </div>
