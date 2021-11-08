@@ -21,7 +21,7 @@
   font-family: 'Roboto', sans-serif;
   font-weight: 700;
   font-size: 2rem;
-  color: #e1e1e1;
+  color: rgb(255, 255, 255);
   display: grid;
   justify-items: center;
   flex-direction: column;
@@ -29,18 +29,24 @@
 }
 
 .heroText p {
-  font-weight: 200
+  font-weight: 300
 }
 
 .heroText a {
   text-decoration: none;
   padding: 15px 25px;
-  margin-top: 20px;
-  background-color: #02c10b;
+  margin-top: 10px;
+  /*background-color: #158d1b;*/
   transition: all .3s ease;
   border-radius: 15px;
-
 }
+
+.logo {
+width: 8rem;
+border-radius: 35px;
+border: solid 5px;
+}
+
 .heroText a:hover{
   transition: all .3s ease;
   filter: brightness(1.2);
